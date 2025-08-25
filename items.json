@@ -278,5 +278,19 @@
     "price": 1.5,
     "rarity": "Minerais",
     "id": 1756160044498
+  },
+  {
+    "name": "EFEZF",
+    "description": "FEfzef",
+    "price": 35,
+    "rarity": "Missiles",
+    "id": 1756160648400
+  },
+  {
+    "name": "Caca",
+    "description": "x",
+    "price": 44,
+    "rarity": "Livres",
+    "id": 1756160657431
   }
 ]
