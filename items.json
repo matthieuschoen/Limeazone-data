@@ -273,10 +273,10 @@
     "id": 1756079519105
   },
   {
-    "name": "test",
+    "name": "Test Item Nouveau",
     "description": "x",
-    "price": 2,
-    "rarity": "Autres",
-    "id": 1756082783629
+    "price": 3000,
+    "rarity": "Refill",
+    "id": 1756083013805
   }
 ]
