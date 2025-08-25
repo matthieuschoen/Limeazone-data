@@ -1,13 +1,13 @@
 [
   {
     "name": "Eco Desh",
-    "description": "Casque éco - Plastron Desh - Pantalon desh - Bottes éco",
+    "description": "Casque Ã©co - Plastron Desh - Pantalon desh - Bottes Ã©co",
     "price": 3700,
     "rarity": "Refill",
     "id": 1756068548277
   },
   {
-    "name": "Epée éco",
+    "name": "EpÃ©e Ã©co",
     "description": "x",
     "price": 500,
     "rarity": "Refill",
@@ -15,7 +15,7 @@
   },
   {
     "name": "Armure Proto Sombre",
-    "description": "Armure complète en prototype sombre",
+    "description": "Armure complÃ¨te en prototype sombre",
     "price": 600,
     "rarity": "Refill",
     "id": 1756068698663
@@ -57,20 +57,20 @@
   },
   {
     "name": "Potion Heal",
-    "description": "Potion de santé",
+    "description": "Potion de santÃ©",
     "price": 24,
     "rarity": "Refill",
     "id": 1756068898722
   },
   {
-    "name": "Boisson énérgisante",
+    "name": "Boisson Ã©nÃ©rgisante",
     "description": "x",
     "price": 850,
     "rarity": "Refill",
     "id": 1756068932222
   },
   {
-    "name": "Pomme dorée",
+    "name": "Pomme dorÃ©e",
     "description": "x",
     "price": 120,
     "rarity": "Refill",
@@ -78,49 +78,49 @@
   },
   {
     "name": "Bloc de gold",
-    "description": "Négociable en fonction de quantité",
+    "description": "NÃ©gociable en fonction de quantitÃ©",
     "price": 90,
     "rarity": "Refill",
     "id": 1756069005044
   },
   {
     "name": "Ecotron",
-    "description": "Machine permettant la production d'éco",
+    "description": "Machine permettant la production d'Ã©co",
     "price": 28500,
     "rarity": "Machines",
     "id": 1756069131776
   },
   {
-    "name": "Réparateur",
-    "description": "Machine permettant la réparation du stuff",
+    "name": "RÃ©parateur",
+    "description": "Machine permettant la rÃ©paration du stuff",
     "price": 28000,
     "rarity": "Machines",
     "id": 1756069160622
   },
   {
-    "name": "Réparateur Industriel",
-    "description": "Machine permettant de réparer vos machine dans le rayon d'un chunk",
+    "name": "RÃ©parateur Industriel",
+    "description": "Machine permettant de rÃ©parer vos machine dans le rayon d'un chunk",
     "price": 30000,
     "rarity": "Machines",
     "id": 1756069369247
   },
   {
-    "name": "Pétrolier",
-    "description": "Machine permettant de pomper du pétrole",
+    "name": "PÃ©trolier",
+    "description": "Machine permettant de pomper du pÃ©trole",
     "price": 75000,
     "rarity": "Machines",
     "id": 1756069390157
   },
   {
     "name": "Incubateur",
-    "description": "Machine permettant la génération de mobs à partir d'un oeuf",
+    "description": "Machine permettant la gÃ©nÃ©ration de mobs Ã  partir d'un oeuf",
     "price": 29000,
     "rarity": "Machines",
     "id": 1756069416609
   },
   {
     "name": "Chargeur Electrique",
-    "description": "Machine permettant de charger ses outils éléctriques",
+    "description": "Machine permettant de charger ses outils Ã©lÃ©ctriques",
     "price": 29000,
     "rarity": "Machines",
     "id": 1756069449297
@@ -133,7 +133,7 @@
     "id": 1756069477011
   },
   {
-    "name": "Machines à potions",
+    "name": "Machines Ã  potions",
     "description": "Machine permettant la fabrication de potion",
     "price": 100,
     "rarity": "Machines",
@@ -141,7 +141,7 @@
   },
   {
     "name": "Imprimantes",
-    "description": "Machines permettant la duplication de livres enchantés",
+    "description": "Machines permettant la duplication de livres enchantÃ©s",
     "price": 100,
     "rarity": "Machines",
     "id": 1756069532029
@@ -161,8 +161,8 @@
     "id": 1756069575541
   },
   {
-    "name": "Câble Electrique Lourd",
-    "description": "Câbles permettant l'acheminement d'éléctricité",
+    "name": "CÃ¢ble Electrique Lourd",
+    "description": "CÃ¢bles permettant l'acheminement d'Ã©lÃ©ctricitÃ©",
     "price": 35,
     "rarity": "Solaire",
     "id": 1756069620615
@@ -267,7 +267,7 @@
   },
   {
     "name": "stuff lunaire complet",
-    "description": "1x casque lunaire - 1x équipement oxygen - 1x module de fréquence - 2x grosses bombonnes oxygen ",
+    "description": "1x casque lunaire - 1x Ã©quipement oxygen - 1x module de frÃ©quence - 2x grosses bombonnes oxygen ",
     "price": 1500,
     "rarity": "Solaire",
     "id": 1756079519105
@@ -294,7 +294,7 @@
     "id": 1756161630604
   },
   {
-    "name": "lingot de fer m�t�orique",
+    "name": "lingot de fer météorique",
     "description": "x",
     "price": 20,
     "rarity": "Minerais",
@@ -315,7 +315,7 @@
     "id": 1756161670908
   },
   {
-    "name": "lingot d'�tain",
+    "name": "lingot d'étain",
     "description": "x",
     "price": 6,
     "rarity": "Minerais",
@@ -355,5 +355,40 @@
     "price": 4500,
     "rarity": "Minerais",
     "id": 1756161812883
+  },
+  {
+    "name": "magnesium",
+    "description": "x",
+    "price": 2500,
+    "rarity": "Minerais",
+    "id": 1756161954815
+  },
+  {
+    "name": "niobium",
+    "description": "x",
+    "price": 3000,
+    "rarity": "Minerais",
+    "id": 1756161970391
+  },
+  {
+    "name": "gallium",
+    "description": "x",
+    "price": 3500,
+    "rarity": "Minerais",
+    "id": 1756161982500
+  },
+  {
+    "name": "fibre de bois mill�naire",
+    "description": "x",
+    "price": 500,
+    "rarity": "Minerais",
+    "id": 1756162001099
+  },
+  {
+    "name": "quartz",
+    "description": "x",
+    "price": 3,
+    "rarity": "Minerais",
+    "id": 1756162015138
   }
 ]
