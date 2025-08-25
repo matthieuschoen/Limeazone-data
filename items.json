@@ -439,5 +439,12 @@
     "price": 500,
     "rarity": "Livres",
     "id": 1756162846866
+  },
+  {
+    "name": "machine a farine",
+    "description": "x",
+    "price": 2000,
+    "rarity": "Machines",
+    "id": 1756163894699
   }
 ]
