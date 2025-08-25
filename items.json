@@ -278,5 +278,82 @@
     "price": 1.5,
     "rarity": "Minerais",
     "id": 1756160044498
+  },
+  {
+    "name": "lingot de desh",
+    "description": "x",
+    "price": 150,
+    "rarity": "Minerais",
+    "id": 1756161613514
+  },
+  {
+    "name": "lingot d'eco",
+    "description": "x",
+    "price": 150,
+    "rarity": "Minerais",
+    "id": 1756161630604
+  },
+  {
+    "name": "lingot de fer météorique",
+    "description": "x",
+    "price": 20,
+    "rarity": "Minerais",
+    "id": 1756161648162
+  },
+  {
+    "name": "lingot d'or",
+    "description": "x",
+    "price": 10,
+    "rarity": "Minerais",
+    "id": 1756161660749
+  },
+  {
+    "name": "lingot d'adamantium",
+    "description": "x",
+    "price": 5,
+    "rarity": "Minerais",
+    "id": 1756161670908
+  },
+  {
+    "name": "lingot d'étain",
+    "description": "x",
+    "price": 6,
+    "rarity": "Minerais",
+    "id": 1756161687325
+  },
+  {
+    "name": "charbon",
+    "description": "x",
+    "price": 1,
+    "rarity": "Minerais",
+    "id": 1756161719293
+  },
+  {
+    "name": "lingot de steel",
+    "description": "x",
+    "price": 6,
+    "rarity": "Minerais",
+    "id": 1756161730348
+  },
+  {
+    "name": "lingot de cuivre",
+    "description": "x",
+    "price": 5,
+    "rarity": "Minerais",
+    "id": 1756161788959
+  },
+  {
+    "name": "diamant",
+    "description": "x",
+    "price": 15,
+    "rarity": "Minerais",
+    "id": 1756161800131
+  },
+  {
+    "name": "tiber",
+    "description": "x",
+    "price": 4500,
+    "rarity": "Minerais",
+    "id": 1756161812883
   }
 ]
