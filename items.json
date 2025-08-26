@@ -359,7 +359,7 @@
   {
     "name": "niobium",
     "description": "x",
-    "price": 3000,
+    "price": 2000,
     "rarity": "Minerais",
     "id": 1756161970391
   },
@@ -446,5 +446,19 @@
     "price": 2000,
     "rarity": "Machines",
     "id": 1756163894699
+  },
+  {
+    "name": "lingot d'aluminium",
+    "description": "x",
+    "price": 6,
+    "rarity": "Minerais",
+    "id": 1756203545779
+  },
+  {
+    "name": "minerai obscur silk touch",
+    "description": "x",
+    "price": 4500,
+    "rarity": "Minerais",
+    "id": 1756203625377
   }
 ]
